@@ -1,0 +1,21 @@
+.counter-container {
+  padding: 10px 10px;
+  margin-right: 10px;
+}
+
+.display-container {
+  border: 5px solid #5c5c5c;
+  border-radius: 30px;
+}
+.display-lbl {
+  font-size: 110px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+}
+.btn-grp {
+  margin-top: 45px;
+}
+.btn {
+  width: 50%;
+}
